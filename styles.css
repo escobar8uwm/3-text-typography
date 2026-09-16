@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(102, 42, 132);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+address {
+    text-align: end;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+    color: rgb(219, 132, 189);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.site-name{ 
+    background-color: aquamarine;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.section-name {
+    color: chartreuse;
+    font-weight: lighter;
+}
